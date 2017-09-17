@@ -23,5 +23,5 @@ $raskrutka_site_7 = 'Knowbaza.ru';
 
 $raskrutka_site_adress = 'г. Санкт-Петербург, ул. Академика Лебедева, дом № 12, oф. 169-170';
 
-$yandex_google = '<meta name="google-site-verification" content="Iaw89eWBIIKiEFhk2jQcF7oKFdT-b7qLIMak1dQsGcM" />
-<meta name="yandex-verification" content="3ddb091b023e7c6b" />';
+$yandex_google = '<meta name="google-site-verification" content="x0bRPcSV-UZ6eX8xQj9xeNn6H0BjKQoxXnU7ZrHTiMM" />
+<meta name="yandex-verification" content="b81783ebdd307b84" />';
