@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /companies/knowbaza
+Disallow: /
+Host: uznai.16mb.com
